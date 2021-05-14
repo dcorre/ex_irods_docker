@@ -53,5 +53,5 @@ docker stop irods
 
 If you need to remove it, in order to run a new one with the same name for instance:
 ```shell
-docker rm
+docker rm irods
 ```
